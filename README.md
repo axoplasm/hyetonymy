@@ -1,4 +1,4 @@
-Hyetology
+Hyetonymy
 =========
 
 A list of words for rain, suitable for use by Pacific Northwesterners.
