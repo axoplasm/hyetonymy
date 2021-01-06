@@ -27,6 +27,9 @@ Huge snowflakes falling when the air is just at the point of freezing, that melt
 #### Sneet
 Snow and sleet, only barely “rain” in the vaguest sense. May accumulate, but is too cold and wet for anything fun like sledding or making snowpeople.
 
+#### Sprinkling
+Intermittent and lighter than drizzle, actually doesn't require a raincoat.
+
 #### Sun shower
 Rain broken by occasional patches of sunshine, most common in spring
 
